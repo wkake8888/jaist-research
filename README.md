@@ -6,10 +6,7 @@ research plan
 four paper for a week at least
 
 
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
+
 
 ACL2021 
 ------------
@@ -17,7 +14,9 @@ ACL2021
  ------
 Long-Span Summarization via Local Attention and Content Selection
 ------
-
+```diff
++ summary
+```
 
 
 kake:
