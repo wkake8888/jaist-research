@@ -21,7 +21,8 @@ summary
 
 kake:
 -----
-EmailSum: Abstractive Email Thread Summarization
+EmailSum: Abstractive Email Thread Summarization\
+https://github.com/wkake8888/jaist-research/blob/ebe0304469d0fafc712aeccec218f1d2a8ad19ae/EmailSum:%20Abstractive%20Email%20Thread%20Summarization.md
 -------------
 
 Aspect-Controllable Opinion Summarization
