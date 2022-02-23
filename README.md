@@ -7,16 +7,16 @@ four paper for a week at least
 
 
 XIONG: 
-------
+=====
 [(WEEK1)Long-Span Summarization via Local Attention and Content Selection (ACL2021)]()
-
-Bringing Structure into Summaries:a Faceted Summarization Dataset for Long Scientific Documents
+------
+[(WEEK1)Bringing Structure into Summaries:a Faceted Summarization Dataset for Long Scientific Documents]()
 ------
 
 
 
 kake:
------
+====
 EmailSum: Abstractive Email Thread Summarization\
 https://github.com/wkake8888/jaist-research/blob/ebe0304469d0fafc712aeccec218f1d2a8ad19ae/EmailSum:%20Abstractive%20Email%20Thread%20Summarization.md
 -------------
