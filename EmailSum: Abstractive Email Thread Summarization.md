@@ -1,6 +1,7 @@
 # TAMMIC
 **Title:**\
-EmailSum: Abstractive Email Thread Summarization
+EmailSum: Abstractive Email Thread Summarization\
+Link: https://aclanthology.org/2021.acl-long.537.pdf
 
 **Author:**\
 Shiyue Zhang
