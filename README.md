@@ -7,7 +7,7 @@ four paper for a week at least
 
 ACL2021 
 ------------
- <font color="green"> XIONG </font> 
+<font color="green"> XIONG </font> 
  ------
 Long-Span Summarization via Local Attention and Content Selection
 ------
@@ -28,7 +28,3 @@ Aspect-Controllable Opinion Summarization
 4.29 - 5.17 paper writing
 -------------------------
 
-| TH1 | TH2 |
-----|---- 
-| TD1 | TD3 |
-| TD2 | TD4 |
