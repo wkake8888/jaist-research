@@ -10,8 +10,6 @@ XIONG:
 =====
 [(WEEK1)Long-Span Summarization via Local Attention and Content Selection (ACL2021)]()
 ------
-[(WEEK1)Bringing Structure into Summaries:a Faceted Summarization Dataset for Long Scientific Documents (ACL2021short)]()
-------
 [(WEEK1)EmailSum: Abstractive Email Thread Summarization (ACL2021)]
 ------
 [(WEEK1)SgSum: Transforming Multi-document Summarization into Sub-graph Selection]
