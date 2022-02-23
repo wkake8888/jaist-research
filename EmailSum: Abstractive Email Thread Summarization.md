@@ -1,9 +1,9 @@
 # TAMMIC
 **Title:**\
-Neural Machine Translation By Jointly Learning To Align And Translate
+EmailSum: Abstractive Email Thread Summarization
 
 **Author:**\
-Dzmitry Bahdanau, Kyung Hyun Cho, Yoshua Bengio
+Shiyue Zhang
 
 **Motivation:**
 - Encoder-Decoder Model has diffiuclty on dealing with long senteces.
