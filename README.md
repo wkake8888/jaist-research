@@ -2,21 +2,15 @@
 research plan
 =======
 2.23 - 3.16 read paper
-
+------
 four paper for a week at least
 
 
-
-
-ACL2021 
-=====
- XIONG: 
+XIONG: 
 ------
-Long-Span Summarization via Local Attention and Content Selection
+Long-Span Summarization via Local Attention and Content Selection (ACL2021)
 ------
-```diff
-summary
-```
+
 
 
 kake:
