@@ -14,7 +14,8 @@ XIONG:
 ------
 [(WEEK1)SgSum: Transforming Multi-document Summarization into Sub-graph Selection]
 ------
-
+[(WEEK1)Learning Opinion Summarizers by Selecting Informative Reviews]
+------
 
 kake:
 ====
