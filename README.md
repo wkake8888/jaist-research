@@ -15,7 +15,7 @@ ACL2021
 Long-Span Summarization via Local Attention and Content Selection
 ------
 ```diff
-+ summary
+summary
 ```
 
 
