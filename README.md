@@ -12,9 +12,9 @@ XIONG:
 ------
 [(WEEK1)EmailSum: Abstractive Email Thread Summarization (ACL2021)]
 ------
-[(WEEK1)SgSum: Transforming Multi-document Summarization into Sub-graph Selection]
+[(WEEK1)SgSum: Transforming Multi-document Summarization into Sub-graph Selection(EMNLP2021)]
 ------
-[(WEEK1)Learning Opinion Summarizers by Selecting Informative Reviews]
+[(WEEK1)Learning Opinion Summarizers by Selecting Informative Reviews(EMNLP2021)]
 ------
 
 kake:
