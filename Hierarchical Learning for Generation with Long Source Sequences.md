@@ -9,7 +9,7 @@ Tobias Rohde, Xiaoxia Wu, Yinhan Liu
 **Motivation:**
 - Current Seq2Seq model has difficulty on handling long sequences, such as summarization and document level translation tasks.
 - RNN and Transformer-based models have limits on the input length. When input is long and it is required complehensive understanding of the entire paragraph or document, the performance is not good.
-- These tasks require the model to reason at the token level as well as the sentence and paragraph level (I think it is this paper's opinion)
+- These tasks require the model to reason at the token level as well as the sentence and paragraph level (Main idea of this paper)
 - One of the main learning challenges for seq2seq models is that the decoder needs to get token level representations from the encoder to predict the next token, while at the same time it must learn from a large context.
 
 **Method:**
@@ -28,11 +28,12 @@ Tobias Rohde, Xiaoxia Wu, Yinhan Liu
 Hierarchical Learning, Hierarchical Token, 
 
 **Unkown:**
-- 
+- when fine-tuning Encoder-only transformer hierarchical attention model on RACE, it had to be disabled dropout for the first epoch and then set it to 0.1, otherwise the model did not converge
 - 
 
 **Reflection:**\
-- 
+- A hierarchical encoder-only model for classification did not get significant gain.
+- However, author beleive that combination of modifying the architecture and the pre-training process might improve over current non-hierarchical models for classification tasks with long source sequences
 
 **Reference:**\
 
