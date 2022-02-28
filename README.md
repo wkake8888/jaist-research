@@ -3,6 +3,8 @@ research plan
 =======
 2.23 - 3.16 read paper
 ------
+week 1 : 2.23 - 3.2
+------
 four paper for a week at least
 
 
