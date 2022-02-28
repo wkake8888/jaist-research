@@ -14,7 +14,7 @@ XIONG:
 ------
 [(WEEK1)EmailSum: Abstractive Email Thread Summarization (ACL2021)]
 ------
-[(WEEK1)SgSum: Transforming Multi-document Summarization into Sub-graph Selection(EMNLP2021)]()
+[(WEEK1)SgSum: Transforming Multi-document Summarization into Sub-graph Selection(EMNLP2021)](https://github.com/wkake8888/jaist-research/blob/c435d60b53b0f9b11844664f1cb2d3f26bc36fae/(WEEK1)SgSum:%20Transforming%20Multi-document%20Summarization%20into%20Sub-graph%20Selection(EMNLP2021).md)
 ------
 [(WEEK1)Learning Opinion Summarizers by Selecting Informative Reviews(EMNLP2021)]
 ------
