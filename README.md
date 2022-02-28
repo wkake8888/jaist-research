@@ -10,7 +10,7 @@ four paper for a week at least
 
 XIONG: 
 =====
-[(WEEK1)Long-Span Summarization via Local Attention and Content Selection (ACL2021)]()
+[(WEEK1)Long-Span Summarization via Local Attention and Content Selection (ACL2021)](https://github.com/wkake8888/jaist-research/blob/3d290c8d1812fa0a4bfef8707384be9bf541da44/(WEEK1)Long-Span%20Summarization%20via%20Local%20Attention%20and%20Content%20Selection%20(ACL2021).md)
 ------
 [(WEEK1)EmailSum: Abstractive Email Thread Summarization (ACL2021)]
 ------
