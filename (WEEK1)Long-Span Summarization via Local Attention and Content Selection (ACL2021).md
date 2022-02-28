@@ -2,6 +2,7 @@
 
 **main content:**
  two methods for long-span summarization tasks. 
+ 
  First, on local self-attention transformers,  present the design considerations for local
 self-attention BART, and we investigate the feasibility and performance of different network configurations. 
 
