@@ -16,7 +16,7 @@ XIONG:
 ------
 [(WEEK1)SgSum: Transforming Multi-document Summarization into Sub-graph Selection(EMNLP2021)](https://github.com/wkake8888/jaist-research/blob/c435d60b53b0f9b11844664f1cb2d3f26bc36fae/(WEEK1)SgSum:%20Transforming%20Multi-document%20Summarization%20into%20Sub-graph%20Selection(EMNLP2021).md)
 ------
-[(WEEK1)Learning Opinion Summarizers by Selecting Informative Reviews(EMNLP2021)]()
+[(WEEK1)Learning Opinion Summarizers by Selecting Informative Reviews(EMNLP2021)](https://github.com/wkake8888/jaist-research/blob/e330869239f82930255ba3e66688a5c0574ceab8/(WEEK1)Learning%20Opinion%20Summarizers%20by%20Selecting%20Informative%20Reviews(EMNLP2021).md)
 ------
 
 kake:
