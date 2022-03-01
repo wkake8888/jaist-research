@@ -7,37 +7,37 @@ Link: https://arxiv.org/pdf/2109.03171.pdf
 Reinald Kim Amplayo Stefanos Angelidis Mirella Lapata
 
 **Motivation:**
-- Current Seq2Seq model has difficulty on handling long sequences, such as summarization and document level translation tasks.
-- RNN and Transformer-based models have limits on the input length. When input is long and it is required complehensive understanding of the entire paragraph or document, the performance is not good.
-- These tasks require the model to reason at the token level as well as the sentence and paragraph level (Main idea of this paper)
-- One of the main learning challenges for seq2seq models is that the decoder needs to get token level representations from the encoder to predict the next token, while at the same time it must learn from a large context.
+- The notion of salience in reviews largely depends on user interst. → Needs of Aspect-specific Summarization
+- There are mainly two disadvantages in Extractive method.
+- 1. The summary can be incoherent and verbose containing unnecessary redundancy.
+- 2. It is not clear how to control the number of aspects in the output.
+- → Abstractive method is needed. 
 
 **Method:**
-- a hierarchical attention model based on the standard Transformer that produces sentence level representations, and combine them with token level representations to improve performance on long document sequence to sequence tasks
-- Adding BOS to each sentences to get sentence representation, not only sequence representation.
+- First, construct a synthetic training dataset consist of reviews, a pseudo-summary, and three types of aspect controllers which reflect different levels of granularity: aspect-related keywords, review sentences, and document-level aspect codes.
+- Then fine-tune a pretrained model on summary generation using the synthethized dataset.
+- 
 
 **Insight:**
-- Achieved state-of-the art ROUGE scores on four summarization tasks, including PubMed-arXiv(Scientific paper), CNN/DM,SAMSum(Multi-party conversation) and AMI(Meeting).
-- Outperforms document-level machine translation baseline on the WMT20 English to German translation task
+- The model outperforms previous approaches on both SPACE and OPOSUM tasks of general and aspect-specific summarization
+- it can effectively generate multi-aspect summaries based on user preferences
 
 **Contribution summary:**\
 
 
 # KURR
 **Keyword:**\
-Hierarchical Learning, Hierarchical Token, 
+multiple instant learning model, aspect controllers, 
 
 **Unkown:**
-- when fine-tuning Encoder-only transformer hierarchical attention model on RACE, it had to be disabled dropout for the first epoch and then set it to 0.1, otherwise the model did not converge
 - 
 
 **Reflection:**\
-- A hierarchical encoder-only model for classification did not get significant gain.
-- However, author beleive that combination of modifying the architecture and the pre-training process might improve over current non-hierarchical models for classification tasks with long source sequences
+- 
 
 **Reference:**\
 
 
 # Notes
-- 
+- Datasets = SPACE, OPOSUM
 - 
