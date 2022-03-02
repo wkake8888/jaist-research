@@ -38,7 +38,7 @@ related work section generation, Hierarchical Encoder, graph-based relationship 
 **Unkown:**
 - 
 
-**Reflection:**\
+**Reflection:**
 - 
 
 **Reference:**\
