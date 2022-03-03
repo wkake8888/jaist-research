@@ -1,3 +1,7 @@
+**Title**\
+Globalizing BERT-based Transformer Architectures for Long Document Summarization\
+Link: https://aclanthology.org/2021.eacl-main.154.pdf
+
 Problem:\
 when associated with the current transformer-based architectures, shows several limitations when the target task requires to reason with long documents. 
 Input length must be less than 512 tokens. But this is too short for long documents.
