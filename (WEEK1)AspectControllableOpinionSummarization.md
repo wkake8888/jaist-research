@@ -4,6 +4,7 @@ Link: https://arxiv.org/pdf/2109.03171.pdf
 
 
 Problem:\
+Most of aspect specific opinion summarization is using extractive method, but it is not good.
 
 Solution:\
 
