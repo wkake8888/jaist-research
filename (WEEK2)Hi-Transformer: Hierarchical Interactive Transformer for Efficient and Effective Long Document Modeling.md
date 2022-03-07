@@ -3,7 +3,7 @@ https://aclanthology.org/2021.acl-short.107.pdf
 
 **Problem**\
 Whole documents can not be inputted to Transformer\
-→ Solve this problem by hierarchical way.
+→ Solve this problem by hierarchical way.\
 → Prepare a token for sentence representaion (CLS) and input it to Document Transformer. The number of input is number of sentences, so usually it works.
 
 **Method**
