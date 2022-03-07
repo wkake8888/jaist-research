@@ -17,7 +17,7 @@ Datasets: Amazon Electronics, IMDB, MIND\
 (Evaluated by classification task)
 
 **Note**
-- Document Transformer is important because the performance consistently declines when the global document contexts are not encoded into sentence representations\
+- Encoding Global Document Context into sentence representation is important because the performance consistently declines when the global document contexts are not encoded into sentence representations\
   → This is because the local contexts within a single sentence may be insufficient for accurate sentence modeling, and global contexts in the entire document can provide rich complementary information for sentence understanding\
   → propagating the document contexts to enhance sentence modeling can improve long document modeling.
   
