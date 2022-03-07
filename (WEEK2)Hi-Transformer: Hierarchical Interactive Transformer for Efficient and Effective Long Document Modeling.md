@@ -12,11 +12,11 @@ Whole documents can not be inputted to Transformer\
 3. Next, we use another sentence Transformer to enhance sentence modeling using the global document context
 4. Finally, we use hierarchical pooling method to obtain document embedding
 
-Evaluation\
+**Evaluation**\
 Datasets: Amazon Electronics, IMDB, MIND\
 (Evaluated by classification task)
 
-Note:
+**Note**
 - Document Transformer is important because the performance consistently declines when the global document contexts are not encoded into sentence representations
   → This is because the local contexts within a single sentence may be insufficient for accurate sentence modeling, and global contexts in the entire document can provide rich complementary information for sentence understanding
   → propagating the document contexts to enhance sentence modeling can improve long document modeling.
