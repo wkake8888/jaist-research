@@ -19,3 +19,7 @@ GOVREPORT:
 - It contains significantly longer documents (9.4k words) and summaries (553 words) than existing datasets, such as PubMed and arXiv 
 - Salient content is spread throughout the documents, as opposed to cases where summary-worthy words are more heavily concentrated in specific parts of the document
 - 
+
+Note:\
+Fixed pattern:\
+Instead of costly learning these trivial positional patterns using millions of sentences, we choose seven predefined patterns, each of which takes the place of an attention head 
