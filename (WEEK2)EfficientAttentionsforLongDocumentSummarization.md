@@ -1,10 +1,14 @@
-NAACL2021
+NAACL2021\
+**Title**\
+Efficient Attentions for Long Document Summarization\
 https://arxiv.org/pdf/2104.02112.pdf
 
 **Problem**<br>
 The quadratic computational and memory complexities of large Transformers have limited their scalability for long document summarization
 
-Solution:
+Solution:\
+HEPOS uses separate encoder-decoder heads on the same layer to cover different subsets of source tokens at fixed intervals. Each head starts at a different position, and all heads collectively attend to the full sequence
+
 
 **Contribution/Result**
 - we are able to process ten times more tokens than existing models that use full attentions
@@ -20,6 +24,5 @@ GOVREPORT:
 - Salient content is spread throughout the documents, as opposed to cases where summary-worthy words are more heavily concentrated in specific parts of the document
 - 
 
-Note:\
-Fixed pattern:\
-Instead of costly learning these trivial positional patterns using millions of sentences, we choose seven predefined patterns, each of which takes the place of an attention head 
+
+![image](https://user-images.githubusercontent.com/50447179/157228546-3a3c3e94-19ae-457c-9c51-246e69bf06e4.png)
