@@ -1,12 +1,12 @@
 **Title**\
-The Influence of Data Pre-processing and Post-processing on Long Document Summarization\
-https://arxiv.org/pdf/2112.01660.pdf
+Longformer: The Long-Document Transformer
+https://arxiv.org/pdf/2004.05150.pdf
 
 **Motivation**
-- most researches focus on how to modify the attention mechanism of the transformer to achieve a higher ROUGE score
-- But The study of data pre-processing and postprocessing are relatively few.
+- Transformer-based models are unable to process long sequences due to their self-attention operation, which scales quadratically with the sequence length
 
-Note:
--  "A discourse-aware attention model for abstractive summarization of long documents." is a pioneer of long ducument summarization task.
+Method:\
+HEPOS uses separate encoder-decoder heads on the same layer to cover different subsets of source tokens at fixed intervals. Each head starts at a different position, and all heads collectively attend to the full sequence.
 
-![image](https://user-images.githubusercontent.com/50447179/157138275-3f3ef865-6685-4c6a-bc25-b3a1359dc6b5.png)
+![image](https://user-images.githubusercontent.com/50447179/157227845-b2f8a955-61a9-44ce-84f9-7916a742e664.png)
+
