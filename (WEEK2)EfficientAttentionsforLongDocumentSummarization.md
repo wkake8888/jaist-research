@@ -7,7 +7,7 @@ https://arxiv.org/pdf/2104.02112.pdf
 The quadratic computational and memory complexities of large Transformers have limited their scalability for long document summarization
 
 Solution:\
-HEPOS uses separate encoder-decoder heads on the same layer to cover different subsets of source tokens at fixed intervals. Each head starts at a different position, and all heads collectively attend to the full sequence
+HEPOS uses separate encoder-decoder heads on the same layer to cover different subsets of source tokens at fixed intervals(Like multi-head attention). Each head starts at a different position, and all heads collectively attend to the full sequence
 
 
 **Contribution/Result**
