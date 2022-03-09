@@ -3,7 +3,7 @@ https://aclanthology.org/2021.naacl-main.470.pdf
 
 Problem:\
 - The length limitation of text encoder
-- use a sliding window to process documents separately is not efficient because the concatenation of summaries that are independently extracted from local contexts is usually have noise (e.g. Only para 1 and 2 shoud be used for summary, but para 3, 4, 5 are also used)\
+- use a sliding window to process documents separately is not efficient because the concatenation of summaries that are independently extracted from local contexts  usually have noise (e.g. Only para 1 and 2 shoud be used for summary, but para 3, 4, 5 are also used)\
 → para 3, 4, 5 should output empty result
 
 Method:\
