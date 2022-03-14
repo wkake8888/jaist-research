@@ -12,6 +12,9 @@ There 4 ways to tackle long-input summarization:
 → This would be the best method. (Actually this method is proposed in human summarization task)\
 <img width="230" alt="image" src="https://user-images.githubusercontent.com/50447179/157569774-d441995d-0307-4419-9770-140796c011a3.png">
 
+**Method**:
+We jointly train an extractor with an abstractor and treat the extracted text snippets as the latent variable. We propose extractive oracles to provide the extractor with a strong learning signal. We introduce consistency loss, which encourages the extractor to approximate the averaged dynamic weights predicted by the generator.
+
 **Contribution**
 - We introduce dynamic latent extraction for the abstractive long-input summarization task, a new approach that better captures information in the long input, allows interpretable dynamic weights, and reduces computational complexity
 - We propose multiple auxiliary optimizations: extractive oracle as a learning signal for the extractor, consistency loss that bridges extraction and generation, hybrid training methods that furthers generalizability of the extractor.
