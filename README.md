@@ -19,6 +19,8 @@ XIONG:
 
 (EMNLP2019)Neural Extractive Text Summarization with Syntactic Compression 
 
+https://github.com/nlpyang/PreSumm
+
 kake:
 ====
 
