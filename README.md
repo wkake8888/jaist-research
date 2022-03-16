@@ -14,7 +14,10 @@ four paper for a week at least
 XIONG: 
 =====
 **Hierarchical Network**:
+
 (EMNLP2020)A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining
+
+(EMNLP2019)Neural Extractive Text Summarization with Syntactic Compression 
 
 kake:
 ====
