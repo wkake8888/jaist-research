@@ -27,8 +27,10 @@ https://github.com/nlpyang/PreSumm
 
 kake:
 ====
-
-
+- max_sentences is hyperparameter. fixed number. (from HiBert)
+- Max_position = Max tokens in a source document. (from HiBert)
+- Max_tokens = Max tokens in a batch. (from HiBert)\
+HiBert: https://xingxingzhang.github.io/hibert.html
 
 3.17 - 4.28 experiment
 ------------------
