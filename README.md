@@ -23,6 +23,9 @@ XIONG:
 
 (EMNLP2019)Neural Extractive Text Summarization with Syntactic Compression 
 
+(EMNLP2020) Unsupervised Extractive Summarization by Pre-training Hierarchical Transformers
+https://github.com/xssstory/STAS
+
 https://github.com/nlpyang/PreSumm
 
 kake:
