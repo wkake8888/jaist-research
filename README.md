@@ -20,13 +20,21 @@ XIONG:
 **Hierarchical Network**:
 
 (EMNLP2020)A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining
+https://github.com/microsoft/HMNet
 
 (EMNLP2019)Neural Extractive Text Summarization with Syntactic Compression 
 
 (EMNLP2020) Unsupervised Extractive Summarization by Pre-training Hierarchical Transformers
 https://github.com/xssstory/STAS
+ 
+(ACL2022)HiStruct+: Improving Extractive Text Summarization with Hierarchical Structure Information
+https://github.com/QianRuan/histruct
 
 https://github.com/nlpyang/PreSumm
+
+**data prepro**
+SciBERTSUM: Extractive Summarization for Scientific Documents
+https://github.com/atharsefid/SciBERTSUM
 
 kake:
 ====
