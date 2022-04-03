@@ -32,6 +32,9 @@ https://github.com/QianRuan/histruct
 
 https://github.com/nlpyang/PreSumm
 
+(EMNLP-IJCNLP 2019)Extractive summarization of Long Documents by combining local context and global context'
+https://github.com/Wendy-Xiao/Extsumm_local_global_context
+
 **data prepro**
 SciBERTSUM: Extractive Summarization for Scientific Documents
 https://github.com/atharsefid/SciBERTSUM
