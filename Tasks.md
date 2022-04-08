@@ -1,7 +1,7 @@
 # Task:
 **Kake**:
-- Find how to do word embedding.
+- [ ] Find how to do word embedding.
 
 **Xiong**:
-- Find how to do data preprocessing.
+- [ ] Find how to do data preprocessing.
 
