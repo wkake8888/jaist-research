@@ -1,7 +1,10 @@
 # Task:
 **Kake**:
-- [ ] Find out how to do word embedding.
+- [x] Find out how to do word embedding.
+- [ ] Find out how to implement Batch Generator
+- [ ] Implement Batch Generator
 
 **Xiong**:
-- [ ] Find out how to do data preprocessing.
+- [x] Find out how to do data preprocessing.
+- [ ] Implement data preprocessing.
 
