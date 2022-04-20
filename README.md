@@ -50,7 +50,7 @@ kake:
 HiBert: https://xingxingzhang.github.io/hibert.html \
 Note:\
 About mini batch, batch size: https://www.kaggle.com/code/residentmario/full-batch-mini-batch-and-online-learning/notebook \
-Naist sort, shuffle: https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/A7-1.pdf \
+Naist sort, shuffle: https://aclanthology.org/W17-3208.pdf \
 
 3.17 - 4.28 experiment
 ------------------
