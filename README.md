@@ -52,6 +52,7 @@ Note:\
 About mini batch, batch size: https://www.kaggle.com/code/residentmario/full-batch-mini-batch-and-online-learning/notebook \
 Naist sort, shuffle: https://aclanthology.org/W17-3208.pdf \
 
+Hierarchical Pooling: https://github.com/HeapHop30/hierarchical-pooling/blob/master/core/Hierarchical%20pooling.ipynb \
 3.17 - 4.28 experiment
 ------------------
 
